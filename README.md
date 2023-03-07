@@ -1,2 +1,2 @@
 # JoseCebrian-Portfolio
-Repositorio de proyectos de Data Science, Machine Learning e Inteligencia Artificial, desde análisis exploratorio hasta implementación de algoritmos de Deep Learning.
+Repository of Data Science, Machine Learning and Artificial Intelligence projects, from exploratory analysis to implementation of Deep Learning algorithms.
