@@ -17,5 +17,7 @@ This project aimed to develop and validate a prediction model for all-cause in-h
 This project aims to develop an alternative method for the detection of Fasciola hepatica using colorimetry, employing machine learning and computer vision techniques. To achieve this, several tasks will be carried out, including determining the technical requirements and necessary variables for the development of the predictive model of color ranges, designing and implementing an image processing system that allows the removal of background and improves accuracy in the detection of biomarkers, developing the predictive model for the classification of images obtained from biomarkers as positive or negative for the presence of Fasciola hepatica, validating the performance of the predictive model using precision parameters compared to current detection techniques on real patient samples, and finally, creating an interface that allows interaction with the hardware responsible for acquiring images from samples.
 </div>
 
+<p align="center">
+  <img src="images/foto3.png" alt="Image capture setup">
+</p>
 
-![](/images/foto3.png)
