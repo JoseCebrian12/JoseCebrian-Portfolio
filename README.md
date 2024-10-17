@@ -2,9 +2,9 @@
 Hi! I'm Jose Cebrian, a senior Biomedical Engineering student with a strong interest in medical imaging, as well as data science. In my portfolio, you'll find some of the projects I've worked on in the field of data science, machine learning, and artificial intelligence. From data exploration to the implementation of deep learning algorithms, each project has been designed to solve a real-world problem using advanced tools and techniques in these areas. I have experience working as a research assistant for projects related to medical imaging and thermal modeling, and as a teaching assistant for advanced programming courses. I've also completed courses and certifications in deep learning and competitive programming, and possess technical skills in Python, R, MATLAB, and PostgreSQL. I'm a proactive, self-taught, and responsible individual who enjoys working on projects and collaborating with teams to achieve the best possible outcomes.
 </div>
 
-# [Project 1: Predicting Bread Price Increases using Logistic Regression](https://github.com/JoseCebrian12/Bread_price_prediction) 
+# [Project 1: Manchester City Treble Winners Analysis](https://github.com/JoseCebrian12/ManCity2022-2023) 
 <div style="text-align: justify;">
-For this example project, a bread price classifier was built to predict whether the average bread price would increase or not in the near future. This model could be used to help consumers and businesses plan and make commercial decisions, as well as to forecast changes in bread prices. Historical data on bread and flour prices was used to develop the model, and logistic regression was employed to predict whether the price of bread would increase in the next month. The model's accuracy was evaluated using data from the previous 100 months, and its suitability for implementation in a future product or service was analyzed.
+In this project, I analyzed Manchester City's performance during their historic **treble-winning** season (Premier League, FA Cup, and Champions League). This analysis covers both team and individual player performance, with a focus on offensive and defensive metrics. Using data from various competitions, I explored key statistics like goals (GF), expected goals (xG), and defensive actions, providing deep insights into how the team and key players like **Erling Haaland** and **Kevin De Bruyne** performed. Visualizations were created using **Matplotlib**, **mplsoccer**, and integrated player images for an enhanced presentation.
 </div>
 
 # [Project 2: Predictive Modeling for In-Hospital Mortality among ICU-Admitted Heart Failure Patients](https://github.com/JoseCebrian12/icu-admission) 
@@ -20,4 +20,3 @@ This project aims to develop an alternative method for the detection of Fasciola
 <p align="center">
   <img src="images/foto3.png" alt="Image capture setup">
 </p>
-
