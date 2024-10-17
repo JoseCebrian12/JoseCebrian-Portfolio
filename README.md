@@ -4,7 +4,7 @@ Hi! I'm Jose Cebrian, a senior Biomedical Engineering student with a strong inte
 
 # [Project 1: Manchester City Treble Winners Analysis](https://github.com/JoseCebrian12/ManCity2022-2023) 
 <div style="text-align: justify;">
-In this project, I analyzed Manchester City's performance during their historic **treble-winning** season (Premier League, FA Cup, and Champions League). This analysis covers both team and individual player performance, with a focus on offensive and defensive metrics. Using data from various competitions, I explored key statistics like goals (GF), expected goals (xG), and defensive actions, providing deep insights into how the team and key players like **Erling Haaland** and **Kevin De Bruyne** performed. Visualizations were created using **Matplotlib**, **mplsoccer**, and integrated player images for an enhanced presentation.
+In this project, I analyzed Manchester City's performance during their historic treble-winning season (Premier League, FA Cup, and Champions League). This analysis covers both team and individual player performance, with a focus on offensive and defensive metrics. Using data from various competitions, I explored key statistics like goals (GF), expected goals (xG), and defensive actions, providing deep insights into how the team and key players like Erling Haaland and Kevin De Bruyne performed. Visualizations were created using Matplotlib, mplsoccer, and integrated player images for an enhanced presentation.
 </div>
 
 # [Project 2: Predictive Modeling for In-Hospital Mortality among ICU-Admitted Heart Failure Patients](https://github.com/JoseCebrian12/icu-admission) 
