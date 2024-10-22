@@ -8,7 +8,7 @@ In this project, I analyzed Manchester City's performance during their historic 
 </div>
 
 <p align="center">
-  <img src="images/erling_haaland_2022.png" alt="Man City performance analysis" width="500px">
+  <img src="images/erling_haaland_2022.png" alt="Man City performance analysis" width="500px" style="margin-top: 20px;">
 </p>
 
 # [Project 2: Dengue Incidence Analysis in Loreto](https://github.com/JoseCebrian12/Data-Challenge-Innovalab) 
@@ -17,7 +17,7 @@ This project focuses on analyzing the relationship between weekly minimum temper
 </div>
 
 <p align="center">
-  <img src="images/streamlit_dengue.png" alt="Dengue incidence analysis in Loreto" width="600px">
+  <img src="images/streamlit_dengue.png" alt="Dengue incidence analysis in Loreto" width="600px" style="margin-top: 20px;">
 </p>
 
 # [Project 3: Development and evaluation of an artificial intelligence model for the automation of early diagnosis of liver fluke using automated reading of biomarker tests](https://github.com/JoseCebrian12/Tesis-fasciola)
@@ -26,5 +26,5 @@ This project aims to develop an alternative method for the detection of Fasciola
 </div>
 
 <p align="center">
-  <img src="images/foto3.png" alt="AI model for Fasciola detection" width="500px">
+  <img src="images/foto3.png" alt="AI model for Fasciola detection" width="500px" style="margin-top: 20px;">
 </p>
