@@ -7,9 +7,9 @@ Hi! I'm Jose Cebrian, a Biomedical Engineering graduate and Statistics student w
 In this project, I analyzed Manchester City's performance during their historic treble-winning season (Premier League, FA Cup, and Champions League). This analysis covers both team and individual player performance, with a focus on offensive and defensive metrics. Using data from various competitions, I explored key statistics like goals (GF), expected goals (xG), and defensive actions, providing deep insights into how the team and key players like Erling Haaland and Kevin De Bruyne performed. Visualizations were created using Matplotlib, mplsoccer, and integrated player images for an enhanced presentation.
 </div>
 
-# [Project 2: Predictive Modeling for In-Hospital Mortality among ICU-Admitted Heart Failure Patients](https://github.com/JoseCebrian12/icu-admission) 
- <div style="text-align: justify;">
-This project aimed to develop and validate a prediction model for all-cause in-hospital mortality among ICU-admitted HF patients using the MIMIC III dataset. The project included an exploratory data analysis, pre-processing steps such as scaling the data and addressing class imbalance with SMOTE, and training an XGBoost model to predict the outcome variable. The final model achieved promising results and could potentially be used to inform clinical decision-making and improve patient outcomes.
+# [Project 2: Dengue Incidence Analysis in Loreto](https://github.com/JoseCebrian12/Data-Challenge-Innovalab) 
+<div style="text-align: justify;">
+This project focuses on analyzing the relationship between weekly minimum temperatures and dengue incidence in the districts of Loreto, Peru, from 2017 to 2022. I used statistical models like **Poisson regression** and **Negative Binomial regression** to evaluate the impact of climatic variables on dengue cases. The analysis also included residual analysis and tests for overdispersion to justify the use of count models. To facilitate data exploration, an interactive visualization was developed using **Streamlit**, allowing users to examine the trends of dengue cases and temperature fluctuations across different districts.  
 </div>
 
 # [Project 3: Development and evaluation of an artificial intelligence model for the automation of early diagnosis of liver fluke using automated reading of biomarker tests](https://github.com/JoseCebrian12/Tesis-fasciola)
