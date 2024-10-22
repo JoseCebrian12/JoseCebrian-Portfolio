@@ -8,7 +8,7 @@ In this project, I analyzed Manchester City's performance during their historic 
 </div>
 
 <p align="center">
-  <img src="images/erling_haaland_2022.png" alt="Man City performance analysis" width="500px" style="margin-top: 20px;">
+  <img src="images/erling_haaland_2022.png" alt="Man City performance analysis" width="500px" style="margin: 20px 0;">
 </p>
 
 # [Project 2: Dengue Incidence Analysis in Loreto](https://github.com/JoseCebrian12/Data-Challenge-Innovalab) 
